@@ -13,7 +13,7 @@ __*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju13
 
 <h3 align="center">imagination.code();</h3>
 
-<img align="right" alt="coding" width="400" stc="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saieiei&label=Profile%20views&color=0e75b6&style=flat" alt="saieiei" /> </p>
 
