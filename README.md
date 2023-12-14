@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sairudra More</h1>
 <h3 align="center">imagination.code();</h3>
 
-<img align="right" alt="coding" width="400" stc="![image](https://github.com/Saieiei/Saieiei/assets/88966749/f14d932e-20ae-471d-9d99-b8e0be4ff50e)">
+<img align="right" alt="coding" width="400" stc="![image](https://github.com/Saieiei/Saieiei/assets/88966749/522253e3-21b3-4937-a7c1-ba89ac61f0b1)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saieiei&label=Profile%20views&color=0e75b6&style=flat" alt="saieiei" /> </p>
 
