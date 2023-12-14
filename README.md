@@ -5,7 +5,13 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Sairudra More</h1>
+<div align='center'>
+
+__*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju1392k/Manju1392k/assets/66934377/3676734b-c403-47a7-93c9-d10c58cb1d64) , I'm Sairudra More</h1>*__
+
+![gif](https://github.com/Manju1392k/Manju1392k/assets/66934377/f4df605b-4f24-4bc3-b0e0-25911d9874e5)
+
+</div>
 <h3 align="center">imagination.code();</h3>
 
 <img align="right" alt="coding" width="400" stc="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
