@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saieiei&label=Profile%20views&color=0e75b6&style=flat" alt="saieiei" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saieiei" alt="saieiei" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Cloud Computing**
