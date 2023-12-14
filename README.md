@@ -1,10 +1,14 @@
 <div align="center">
+  
 ![198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+
 </div>
 
 
 <div align='center'>
+  
 __*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju1392k/Manju1392k/assets/66934377/3676734b-c403-47a7-93c9-d10c58cb1d64) , I'm Sairudra More</h1>*__
+
 </div>
 
 <h3 align="center">imagination.code();</h3>
