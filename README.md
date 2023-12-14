@@ -1,3 +1,10 @@
+<div align="center">
+
+![198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Sairudra More</h1>
 <h3 align="center">imagination.code();</h3>
 
