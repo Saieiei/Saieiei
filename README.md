@@ -11,7 +11,7 @@ __*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju13
 
 </div>
 
-<h3 align="center">imagination.code();</h3>
+<h3 align="center">Consistency is Key</h3>
 
 
 
