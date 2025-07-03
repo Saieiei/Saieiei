@@ -33,7 +33,7 @@ __*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju13
 <a href="https://www.codechef.com/users/saiei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saiei" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sairudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sairudra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiei" height="30" width="40" /></a>
-<a href="[https://auth.geeksforgeeks.org/user/sairudra](https://www.geeksforgeeks.org/user/sairudra60/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sairudra" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sairudra60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sairudra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
