@@ -17,14 +17,6 @@ __*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju13
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saieiei&label=Profile%20views&color=0e75b6&style=flat" alt="saieiei" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 💬 Ask me about **Cloud Computing**
-
-- 📫 How to reach me **sairudra.more2021@vitstudent.ac.in**
-
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts attention, and attention generates meetings! 😅💼**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sairudra-more/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairudra more" height="30" width="40" /></a>
