@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="header banner" />
   
-# Hi 👋, I'm Sairudra More
+  <h1>
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Sairudra More
+  </h1>
 
 ### Consistency is Key 
 
