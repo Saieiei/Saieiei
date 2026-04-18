@@ -7,7 +7,7 @@
 
 ### Consistency is Key 
 
-### System Software Developer @ HPE Cray  
+### System Software Developer @ HPE
 ### Working on LLVM, Clang, Flang, Compilers, and HPC
 
 <p>
