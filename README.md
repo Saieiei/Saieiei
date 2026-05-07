@@ -8,7 +8,7 @@
 ### Consistency is Key 
 
 ### System Software Developer @ HPE
-### Working on LLVM, Clang, Flang, Compilers, and HPC
+### Working on LLVM, Clang, Flang, Compilers, and HPC.
 
 <p>
   <a href="https://www.linkedin.com/in/sairudra-more/">
